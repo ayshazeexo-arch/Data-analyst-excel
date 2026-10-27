@@ -1,9 +1,9 @@
 # Data-analyst-excel
 This includes all my Excel projects
 
-WORKSHEET<img width="1366" height="725" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/edbb3473-f0dd-42c4-97f1-106acc5c55e0" />
+<img width="1366" height="725" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/edbb3473-f0dd-42c4-97f1-106acc5c55e0" />
 
-
+WORKSHEET
 | ID    | Marital Status | Gender | Income | Children | Education           | Occupation     | Home Owner | Cars | Commute Distance | Region        | Age | Age brackets | Purchased Bike  |
 | ----- | -------------- | ------ | ------ | -------- | ------------------- | -------------- | ---------- | ---- | ---------------- | ------------- | --- | ------------ | --------------  |
 | 12496 | Married        | Female | 40000  | 1        | Bachelors           | Skilled Manual | Yes        | 0    | 0-1 Miles        | Europe        | 42  | Middle age   | No              |
