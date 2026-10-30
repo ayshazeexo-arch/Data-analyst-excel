@@ -1,6 +1,84 @@
 # Data-analyst-excel
 This includes my Excel project
 
+# 🚴 Bike Sales Analysis | Excel Project
+
+## 📌 Project Overview
+
+This project focuses on exploring and analysing bike sales data using Microsoft Excel to understand customer purchasing behaviour and identify patterns that influence bike purchases.
+
+The analysis uses customer demographic and behavioural information to explore the relationship between customer characteristics and bike purchasing decisions.
+
+## 🎯 Project Objectives
+
+- Understand customer purchasing behaviour.
+- Analyse bike purchases across different age groups.
+- Explore the relationship between income and bike purchases.
+- Examine purchasing patterns based on gender and marital status.
+- Investigate how commute distance relates to bike purchases.
+- Identify patterns across different regions and occupations.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Data Cleaning
+- Pivot Tables
+- Excel Charts
+- Data Visualization
+
+## 📂 Dataset Information
+
+The dataset contains customer information, including:
+
+- Customer ID
+- Marital Status
+- Gender
+- Income
+- Number of Children
+- Education
+- Occupation
+- Home Ownership
+- Number of Cars
+- Commute Distance
+- Region
+- Age
+- Age Brackets
+- Bike Purchase Status
+
+## 🔍 Analysis Areas
+
+The project explores:
+
+1. Customer demographics and bike purchases.
+2. Income distribution and purchasing behaviour.
+3. Age groups and bike purchasing patterns.
+4. Customer occupation and purchasing decisions.
+5. Regional differences in bike purchases.
+6. Commute distance and purchasing behaviour.
+
+## 📊 Key Skills Demonstrated
+
+- Working with structured datasets.
+- Exploring customer demographics.
+- Analysing purchasing patterns.
+- Creating Pivot Tables.
+- Building charts and visualizations.
+- Presenting data in an understandable format.
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| `Excel Project.xlsx` | Excel workbook containing the bike sales project and analysis. |
+
+## 💡 Project Outcome
+
+This project demonstrates how Microsoft Excel can be used to explore customer data, identify purchasing patterns and present information that can support business decision-making.
+
+---
+
+⭐ This project is part of my Data Analytics learning journey.
+
 <img width="1366" height="725" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/edbb3473-f0dd-42c4-97f1-106acc5c55e0" />
 
 WORKSHEET
